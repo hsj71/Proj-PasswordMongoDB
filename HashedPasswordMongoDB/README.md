@@ -92,19 +92,19 @@ If matched, user is granted access to dashboard.
 Actual screenshots of each page.
 
 <p align="center">
-  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(764).png" alt="View Merged PDFs" width="700"/>
+  <img src="Screenshot%20(764).png" alt="View Merged PDFs" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(765).png" alt="View Merged PDFs" width="700"/>
+  <img src="Screenshot%20(765).png" alt="View Merged PDFs" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(768).png" alt="View Merged PDFs" width="700"/>
+  <img src="Screenshot%20(768).png" alt="View Merged PDFs" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/hsj71/EncryptedPasswordMongoDB/blob/main/Screenshot%20(769).png" alt="View Merged PDFs" width="700"/>
+  <img src="Screenshot%20(769).png" alt="View Merged PDFs" width="700"/>
 </p>
 --- 
 
